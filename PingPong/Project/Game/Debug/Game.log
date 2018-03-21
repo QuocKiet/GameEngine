@@ -1,0 +1,44 @@
+﻿  resource.cpp
+e:\documents\mycode\pingpong\src\game\resource.h(2): fatal error C1083: Cannot open include file: 'Sprite.h': No such file or directory
+  Player.cpp
+e:\documents\mycode\pingpong\src\game\player.h(3): fatal error C1083: Cannot open include file: 'Image.h': No such file or directory
+  PauseScene.cpp
+e:\documents\mycode\pingpong\src\game\pausescene.h(3): fatal error C1083: Cannot open include file: 'Scene.h': No such file or directory
+  MenuScene.cpp
+e:\documents\mycode\pingpong\src\game\menuscene.h(2): fatal error C1083: Cannot open include file: 'Scene.h': No such file or directory
+  Main.cpp
+e:\documents\mycode\pingpong\src\game\main.cpp(3): fatal error C1083: Cannot open include file: 'Header.h': No such file or directory
+  GamePlayScene.cpp
+e:\documents\mycode\pingpong\src\game\gameplayscene.h(2): fatal error C1083: Cannot open include file: 'Scene.h': No such file or directory
+  GameOverScene.cpp
+e:\documents\mycode\pingpong\src\game\gameoverscene.h(2): fatal error C1083: Cannot open include file: 'Scene.h': No such file or directory
+  Enemy.cpp
+e:\documents\mycode\pingpong\src\game\enemy.h(2): fatal error C1083: Cannot open include file: 'Image.h': No such file or directory
+  Ball.cpp
+e:\documents\mycode\pingpong\src\game\ball.h(2): fatal error C1083: Cannot open include file: 'GameObject.h': No such file or directory
+  Text.cpp
+e:\documents\mycode\pingpong\src\engine\core\gameobject.h(2): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Test.cpp
+  Sprite.cpp
+e:\documents\mycode\pingpong\src\engine\core\gameobject.h(2): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  SceneManager.cpp
+e:\documents\mycode\pingpong\src\engine\core\header.h(2): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Scene.cpp
+e:\documents\mycode\pingpong\src\engine\core\gameobject.h(2): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Renderer.cpp
+e:\documents\mycode\pingpong\src\engine\core\renderer.h(2): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Image.cpp
+e:\documents\mycode\pingpong\src\engine\core\image.h(2): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  GameObject.cpp
+e:\documents\mycode\pingpong\src\engine\core\gameobject.h(2): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  EventManager.cpp
+e:\documents\mycode\pingpong\src\engine\core\eventmanager.h(2): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Button.cpp
+e:\documents\mycode\pingpong\src\engine\core\gameobject.h(2): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Application.cpp
+e:\documents\mycode\pingpong\src\engine\core\application.h(3): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Generating Code...
+  Compiling...
+  Animation.cpp
+e:\documents\mycode\pingpong\src\engine\core\image.h(2): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Generating Code...

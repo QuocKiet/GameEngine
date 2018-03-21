@@ -1,0 +1,3 @@
+﻿  GamePlayScene.cpp
+e:\documents\mycode\pingpong\src\game\gameplayscene.cpp(190): warning C4244: 'argument': conversion from 'float' to 'int32', possible loss of data
+  Game.vcxproj -> E:\Documents\Mycode\PingPong\Project\..\Bin\Game.exe

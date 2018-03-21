@@ -1,0 +1,176 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Game">
+      <UniqueIdentifier>{4f0c2208-ecac-4ac5-98f5-6e8cc5416fde}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Engine">
+      <UniqueIdentifier>{be6ac463-684d-4d6d-99d4-b82884cf1567}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Engine\Core">
+      <UniqueIdentifier>{ebaa7b6b-b604-4de4-b244-62123dc2ea3f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Engine">
+      <UniqueIdentifier>{2cd55655-e3dd-4b26-8885-e07ba902dbde}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Engine\Core">
+      <UniqueIdentifier>{94601930-db75-4b61-a692-bf4af1467804}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Src\Game\Main.cpp">
+      <Filter>Source Files\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Src\Engine\Core\Application.cpp">
+      <Filter>Header Files\Engine\Core</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Src\Engine\Core\Scene.cpp">
+      <Filter>Header Files\Engine\Core</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Src\Engine\Core\Renderer.cpp">
+      <Filter>Header Files\Engine\Core</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Src\Engine\Core\GameObject.cpp">
+      <Filter>Header Files\Engine\Core</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Src\Engine\Core\Image.cpp">
+      <Filter>Header Files\Engine\Core</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Src\Engine\Core\Sprite.cpp">
+      <Filter>Header Files\Engine\Core</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Src\Engine\Core\SceneManager.cpp">
+      <Filter>Header Files\Engine\Core</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Src\Engine\Core\Button.cpp">
+      <Filter>Header Files\Engine\Core</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Src\Engine\Core\EventManager.cpp">
+      <Filter>Header Files\Engine\Core</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Src\Engine\Core\Test.cpp">
+      <Filter>Header Files\Engine\Core</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Src\Engine\Core\Text.cpp">
+      <Filter>Header Files\Engine\Core</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Src\Engine\Core\Animation.cpp">
+      <Filter>Header Files\Engine\Core</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Src\Game\MenuScene.cpp">
+      <Filter>Source Files\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Src\Game\resource.cpp">
+      <Filter>Source Files\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Src\Game\GamePlayScene.cpp">
+      <Filter>Source Files\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Src\Game\Player.cpp">
+      <Filter>Source Files\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Src\Game\PauseScene.cpp">
+      <Filter>Source Files\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Src\Game\Enemy.cpp">
+      <Filter>Source Files\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Src\Game\GameOverScene.cpp">
+      <Filter>Source Files\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Src\Game\Ball.cpp">
+      <Filter>Source Files\Game</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Src\Engine\Core\Application.h">
+      <Filter>Header Files\Engine\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Src\Engine\Core\Scene.h">
+      <Filter>Header Files\Engine\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Src\Engine\Core\Renderer.h">
+      <Filter>Header Files\Engine\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Src\Engine\Core\GameObject.h">
+      <Filter>Header Files\Engine\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Src\Engine\Core\Image.h">
+      <Filter>Header Files\Engine\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Src\Engine\Core\Sprite.h">
+      <Filter>Header Files\Engine\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Src\Engine\Core\SceneManager.h">
+      <Filter>Header Files\Engine\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Src\Engine\Core\Button.h">
+      <Filter>Header Files\Engine\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Src\Engine\Core\EventManager.h">
+      <Filter>Header Files\Engine\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Src\Engine\Core\Header.h">
+      <Filter>Header Files\Engine\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Src\Engine\Core\Test.h">
+      <Filter>Header Files\Engine\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Src\Engine\Core\SingleTon.h">
+      <Filter>Header Files\Engine\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Src\Engine\Core\Text.h">
+      <Filter>Header Files\Engine\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Src\Engine\Core\Animation.h">
+      <Filter>Header Files\Engine\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Src\Game\MenuScene.h">
+      <Filter>Source Files\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Src\Game\resource.h">
+      <Filter>Source Files\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Src\Game\GamePlayScene.h">
+      <Filter>Source Files\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Src\Game\Ball.h">
+      <Filter>Source Files\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Src\Game\Player.h">
+      <Filter>Source Files\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Src\Game\PauseScene.h">
+      <Filter>Source Files\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Src\Game\Enemy.h">
+      <Filter>Source Files\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Src\Game\GameOverScene.h">
+      <Filter>Source Files\Game</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Game.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
